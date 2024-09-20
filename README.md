@@ -1,2 +1,2 @@
 # Anthony
-*wuhu
+* wuhu
